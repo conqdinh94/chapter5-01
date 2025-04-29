@@ -1,0 +1,2 @@
+# git ignore dung de chua nhung file ma khong muon git quan ly
+.env
